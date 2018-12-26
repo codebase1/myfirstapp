@@ -1,2 +1,4 @@
 node maven label is created{
 }
+stage("1"){
+}
